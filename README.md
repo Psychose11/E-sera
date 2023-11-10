@@ -1,2 +1,2 @@
 # E-sera
-E-sera est un réseau sociale pour tous les commerçant en ligne  
+E-sera est un projet pour des ventes concurentielles
